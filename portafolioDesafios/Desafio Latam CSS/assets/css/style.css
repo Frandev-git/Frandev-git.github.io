@@ -1,0 +1,40 @@
+body {
+    background-color: #fffff8;
+    margin: 0%;
+    padding: 0%;
+}
+header {
+    background-color: transparent;
+    
+}
+footer {
+    background-color: #ffffd6;
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+}
+.imagenTabla {
+    width: 60%;
+    text-align: right;
+    padding: 10px;
+}
+.imagenArticulo {
+    width: 165px;
+    border-radius: 20px;
+    box-shadow: 0 12px 12px 0 rgba(0, 0, 0, 0.15);;
+}
+.artículo {
+    font-size: 25px;
+    font-weight: bold;
+}
+.banner {
+    position: relative;
+    left: 10%;
+    top: 25%;
+}
+#encabezado {
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-position-y: 12%;
+    height: 25vh;
+}

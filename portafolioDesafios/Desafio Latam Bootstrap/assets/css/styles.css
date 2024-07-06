@@ -1,0 +1,37 @@
+.bg-verde {
+    background-color: #28A745;
+}
+.imgMain {
+    width: 100%;
+}
+.card-text {
+    color: #707070;
+}
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.precio {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: right;
+}
+.valorFinal {
+    color: #28A745;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.textIcon {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 4px;
+}
+p {
+    margin-bottom: 0%;
+}
+.valores {
+    --bs-border-opacity: .5;
+    margin: 15px;
+}
